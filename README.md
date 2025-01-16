@@ -11,5 +11,5 @@ Welcome to my GitHub profile! Here's a little about me:
 - **🌍 Languages I know:** [HTML Python, JavaScript]
 
 ## 🔗 Connect with Me
-- [Mail] vilmerolle@hackermail.com
 - [My Website](https://vilmeroll3.github.io/)
+- [Mail] vilmerolle@hackermail.com
