@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Vilmerolle! 👋
 
-<!--
-**vilmeroll3/vilmeroll3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+### 👀 Profile Visits
+![Profile Views](https://komarev.com/ghpvc/?username=vilmerolle&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- **🌟 Passionate about** coding, learning new technologies, and building amazing projects.
+- **💡 Interests:** [Web Development, Data Science, Game Development]
+- **🌍 Languages I know:** [HTML Python, JavaScript]
+
+## 🔗 Connect with Me
+- [GitHub](https://github.com/vilmeroll3)
+- [Mail] vilmerolle@hackermail.com
+- [Personal Website](https://vilmeroll3.github.io/)
