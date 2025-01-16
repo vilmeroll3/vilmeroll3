@@ -13,4 +13,4 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 🔗 Connect with Me
 - [GitHub](https://github.com/vilmeroll3)
 - [Mail] vilmerolle@hackermail.com
-- [Personal Website](https://vilmeroll3.github.io/)
+- [My Website](https://vilmeroll3.github.io/)
