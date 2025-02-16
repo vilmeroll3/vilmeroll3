@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🚀 About Me
 - **🌟 Passionate about** coding, learning new technologies, and building amazing projects.
-- **💡 Interests:** [Web Development, Data Science, Game Development]
+- **💡 Interests:** [Web Development, Game Development]
 - **🌍 Languages I know:** [HTML Python, JavaScript]
 
 ## 🔗 Connect with Me
